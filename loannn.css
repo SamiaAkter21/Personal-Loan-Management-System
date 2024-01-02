@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #B3C0CB;
+}
+
+.navbar span{
+    font-size: large;
+    color: rgb(7, 67, 85);
+}
+
+.navbar a{
+    text-decoration: none;
+}
